@@ -1,0 +1,6 @@
+{
+  "name": "Live Survey & Real-Time Dashboard",
+  "description": "ระบบแบบสอบถามความพึงพอใจการอบรม พร้อมแดชบอร์ดเรียลไทม์ QR Code วิเคราะห์ผล Likert 5 ระดับ และส่งออก CSV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
